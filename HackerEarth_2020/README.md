@@ -54,7 +54,7 @@ Step 1:
 Source : https://www.dcode.fr/caesar-cipher
 #### Flag : HE{Rotate_Me_TO_Get_Points}   
 
-### **General 5**
+### 2.5 **General 5**
 ![General 5](/resource/General5.png)
 
 Step 1:
@@ -70,7 +70,7 @@ Step 1:
 Source : https://cryptobook.nakov.com/mac-and-key-derivation/pbkdf2 
 #### Flag : HE{pbkdf2}**
 
-### **General 6**
+### 2.6 **General 6**
 ![General 6](/resource/General6.png)
 
  Step 1:
