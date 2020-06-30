@@ -216,6 +216,7 @@ Step 2:
     We will use john for crack a zip.notes.txt not contain anything.
 ![code](/resource/lock3.png)
 ![code](/resource/lock4.png)
+
 after we break lock we get flag.txt file.We got our flag.
 
 ![code](/resource/lock5.png)
