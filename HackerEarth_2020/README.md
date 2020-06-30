@@ -16,7 +16,7 @@ Step 1:
 
  Step 1:
     
-    In given statement we have to change Hex value to ASCII value is `0x48`. do manualy or online.
+    In given statement we have to change Hex value to ASCII value is 0x48. do manualy or online.
 
 ![General 1](/resource/General1_2.png)
 
@@ -27,7 +27,7 @@ Step 1:
 
 Step 1:
     
-    In given statement we have to convert Base 10 (`Decimal`) to Base 2 (`Binary`) that value will be our flag.
+    In given statement we have to convert Base 10 (Decimal) to Base 2 (`Binary`) that value will be our flag.
 
 ![General 2](/resource/General2_1.png)
 
