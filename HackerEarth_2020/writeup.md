@@ -1,4 +1,4 @@
-# CTF Writeup
+# CTF Writeup :  Brute Force 1.0 - HackerEarth
  Author: tg
 ## 1. Welcome
 ### **Brute Force 1.0** 
