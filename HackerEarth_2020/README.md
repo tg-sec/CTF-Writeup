@@ -27,7 +27,7 @@ Step 1:
 
 Step 1:
     
-    In given statement we have to convert Base 10 (Decimal) to Base 2 (`Binary`) that value will be our flag.
+    In given statement we have to convert Base 10 (Decimal) to Base 2 (Binary) that value will be our flag.
 
 ![General 2](/resource/General2_1.png)
 
