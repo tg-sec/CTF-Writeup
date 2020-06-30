@@ -49,20 +49,20 @@ Step 1:
 
 Step 1:
     
-    CTF is to become a Admin and get the flag. so Question is how to become admin. tried SQL Injuction but no work.may be we have to do with a session management.so do inspact element goto Network section
+    Challenge is to become a Admin and get the flag. so Question is how to become admin. tried SQL Injuction but no work.may be we have to do with a session management.so do inspact element goto Network section.
 
 ![nahamcon](/resource/NahamCon/u2.png)
 
 Step 2:
     
-    we get that we have a GET request may be we can manipulate some value.in header response of GET request we get a Cookie=gt
+    we get that we have a GET request may be we can manipulate some value.in header response of GET request we get a Cookie=gt.
 ![nahamcon](/resource/NahamCon/u3.png)
 
  `Edit the same request and replace Cookie=gt with admin`
  
 Step 3:
     
-    In response section we get a weird word  
+    In response section we get a weird word.  
 ![nahamcon](/resource/NahamCon/u4.png)
 
  Step 4:
@@ -82,7 +82,7 @@ Step 1:
 
 Step 2:
     
-    Just add .png and file will get open 
+    Just add .png and file will get open.
 ![nahamcon](/resource/NahamCon/pan3.png)
 
 #### Flag : flag{wham_bam_thank_you_for_the_flag_maam}
@@ -94,5 +94,5 @@ Step 1:
     
     Actully i got this flag accidently.i dont no what to do i simple open browser and open URL like this.always try to open given URL in browser may be you get your answer easily.
 ![nahamcon](/resource/NahamCon/v2.png)
-just did Ctrl + F with flag keyword and we got flag
+just did Ctrl + F with flag keyword and we got flag.
 #### Flag: flag{more_text_in_the_vortex}
