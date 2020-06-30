@@ -197,7 +197,7 @@ Step 2:
     May be its really numbers game so pull out English alpha with numbers and we have numbers in image.
 ![code](/resource/nu3.png)
 
-85{20 8 5_2 1 19 9 3_14 21 13 2 5 18_7 1 13 5}
+85{20 8 5_2 1 19 9 3_14 21 13 2 5 18_7 1 13 5}  
 HE{the_basic_number_game}
 
 Source : https://www.worldometers.info/languages/how-many-letters-alphabet/
