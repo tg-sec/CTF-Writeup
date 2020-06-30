@@ -93,6 +93,6 @@ Step 2:
 Step 1:
     
     Actully i got this flag accidently.i dont no what to do i simple open browser and open URL like this.always try to open given URL in browser may be you get your answer easily.
-![nahamcon](/resource/NahamCon/v2.png)
+![nahamcon](/resource/NahamCon/v22.png)
 just did Ctrl + F with flag keyword and we got flag.
 #### Flag: flag{more_text_in_the_vortex}
