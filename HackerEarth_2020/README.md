@@ -38,7 +38,7 @@ Step 1:
 
  Step 1:
 
-    In given statement given value is string in HASH form but statement said that just only reverse it not to convert in a actually string.in CTF play you have to read statement carefully because mostly main hints are give in statement just we have to look carefully.for this we will use `CyberChef`.
+    In given statement given value is string in HASH form but statement said that just only reverse it not to convert in a actually string.in CTF play you have to read statement carefully because mostly main hints are give in statement just we have to look carefully.for this we will use CyberChef.
 ![General 3](/resource/General3_1.png)
 
 ####  Flag: HE{17202b671953ed3ec4be52fd23f74901}
