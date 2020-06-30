@@ -46,7 +46,9 @@ Tool Source: https://github.com/lukechampine/jsteg
 ## 3. Crypto
 ### 3.1 **Mix**
 ![welcome](/resource/zh3r0/mix1.png)
+
  Step 1:
+ 
     Read the statement and you will get the hint. try to fugure out what you can do with the statement and also we got the file with it . so first analysis is that some keyword are CAPITAL and this is a crypto ctf so may be this are the technique used in crypto.download zip extact it and see what can you do with it.
 ![welcome](/resource/zh3r0/mix2.png)
     
@@ -95,7 +97,7 @@ Step 4:
 Step 1:
     
     Read statement carefully and find out given hints. so get remote server with it and connect and we get bellow output.
-    
+
 ![welcome](/resource/zh3r0/rsa2.png)
 ```
  But there is catch when i try to connect that remote server it generate a diffrent values every time so use anyone output to crack. its a RSA Cryptography also mention in statement “RSA is one of the first public-key cryptosystems”. so there are tool to do that.
