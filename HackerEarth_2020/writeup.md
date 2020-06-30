@@ -68,7 +68,7 @@ Step 1:
 ![General 5](/resource/General5_1.png)
 
 Source : https://cryptobook.nakov.com/mac-and-key-derivation/pbkdf2 
-#### Flag : HE{pbkdf2}**
+#### Flag : HE{pbkdf2}
 
 ### 2.6 **General 6**
 ![General 6](/resource/General6.png)
