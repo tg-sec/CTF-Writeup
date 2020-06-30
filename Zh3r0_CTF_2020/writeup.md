@@ -1,4 +1,4 @@
-# CTF Writeup : Zh3r0 CTF
+# CTF Writeup : Zh3r0 CTF 2020
 Author: tg
 ## 1. Misc
 ### 1.1 **Welcome to Phase 1**
@@ -48,7 +48,7 @@ Tool Source: https://github.com/lukechampine/jsteg
 ![welcome](/resource/zh3r0/mix1.png)
 
  Step 1:
- 
+
     Read the statement and you will get the hint. try to fugure out what you can do with the statement and also we got the file with it . so first analysis is that some keyword are CAPITAL and this is a crypto ctf so may be this are the technique used in crypto.download zip extact it and see what can you do with it.
 ![welcome](/resource/zh3r0/mix2.png)
     
