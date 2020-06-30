@@ -32,7 +32,7 @@ Step 1:
 
 ![nahamcon](/resource/NahamCon/met2.png)
 
- using exiftool you get your flag.
+ using `exiftool` you get your flag.
  #### Flag: flag{N0t_7h3_4cTuaL_Cr3At0r}
 
 ### 1.4 **Mr. Robot**
