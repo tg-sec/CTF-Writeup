@@ -3,6 +3,7 @@ Author: tg
 ## 1. Misc
 ### 1.1 **Welcome to Phase 1**
 ![welcome](/resource/zh3r0/welcome1.png)
+
 Step 1:
     
     Goto the browser inspact element you will see the flag in the submit button placeholder or you can type manualy.
@@ -12,14 +13,17 @@ Step 1:
 
 ### 1.2 **Welcome to Phase 2**
 ![welcome](/resource/zh3r0/welcome2.png)
+
 Step 1:
 
     When we read challange statement you will get hint from there that flag is in zh3ro Discord channel and we have to use man command if we get stuck go and use man command in #shell channel.
 ![welcome](/resource/zh3r0/welcome2_1.png)
+
 Step 2:
     
     type ls command you will get below data
 ![welcome](/resource/zh3r0/welcome2_2.png)
+
 Step 3:
     
     Use the command which retrive from man and cat those txt file. BOT will get you a flag.
@@ -32,13 +36,16 @@ Step 3:
 ## 2. Forensics
 ### 2.1 **LSB fun**
 ![welcome](/resource/zh3r0/lsb.png)
+
 Step 1:
     
     Read the statement and you will get the hint that may be flag is in the files LSB (Least Significant Bit).always try guess what kind of method we can apply on the thing.as well as we get the file user.zip unzip it and we get the below image.
 ![welcome](/resource/zh3r0/lsb2.png)
+
 Step 2:
 
     Use jsteg that will reveal hidden message and you got a flag go and submit. there are other tools like binwalk,steghide try those also.
+
 ![welcome](/resource/zh3r0/lsb3.png)
 
 Tool Source: https://github.com/lukechampine/jsteg
@@ -53,6 +60,7 @@ Tool Source: https://github.com/lukechampine/jsteg
 ![welcome](/resource/zh3r0/mix2.png)
     
     we get this. so google those capital keyword and see. so i got that BASE 65536 is binary encoding optimised for UTF-32 and BASE 64 is used for binary-to-text encoding.
+
 Step 2:
 
     found this site that decode BASE 65536 and we get this 3 flag.
