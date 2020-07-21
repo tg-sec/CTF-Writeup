@@ -116,6 +116,7 @@ Step 2:
     I used stegcracker for bruteforce and rockyou.txt as worldlist so no use so i just look at the source of file and Yes flag was there.so lession is always try basic thing first.
 
 ![Calculate](/resource/Copy3.png)
+
  Source : https://github.com/Paradoxis/StegCracker  
  #### Flag : HE{7e69c214546a931d52312bb92da9d87d}
 
@@ -126,6 +127,7 @@ Steg 1:
 
     Read statement and find the clues M***** _ Code and we have attach Image so it means may be kind of Morse code is embedded in that Image. Again do basic forensic on image and find out that image is password protected. Bruteforce is method.
 ![code](/resource/code2.png)
+
 Source : https://github.com/Paradoxis/StegCracker
 
 Step 2:
