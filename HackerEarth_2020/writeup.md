@@ -123,6 +123,7 @@ Step 2:
 ### 5.2 **M\*\*\*\*\* _ Code**
 
 ![code](/resource/code1.png)
+
 Steg 1:
 
     Read statement and find the clues M***** _ Code and we have attach Image so it means may be kind of Morse code is embedded in that Image. Again do basic forensic on image and find out that image is password protected. Bruteforce is method.
@@ -156,6 +157,7 @@ Step 1:
 
 ### 6.2 **De ------>> Code**
 ![code](/resource/de1.png)
+
 Step 1: 
     
     See the contain try CyberChef. so we find out that its Base 64 encode in 7 time using same method .you have decode cipher seven time.Suggestion is alway try any cipher in CyberChef first.
@@ -180,6 +182,7 @@ Source : https://www.m00nie.com/type-7-password-tool/
 
 ### 6.4 **Nine**
 ![code](/resource/nine1.png)
+
 Step 1:
     
     This is a similar CTF to the SEVEN just diffrence is that password was Cisco type 7 and this is Juniper type $9$ Hashed password.
@@ -199,7 +202,7 @@ Step 1:
 Step 2:
 
     May be its really numbers game so pull out English alpha with numbers and we have numbers in image.
-    
+
 ![code](/resource/nu3.png)
 
 85{20 8 5_2 1 19 9 3_14 21 13 2 5 18_7 1 13 5}  
